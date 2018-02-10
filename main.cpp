@@ -33,6 +33,7 @@ int main() {
     tomdir.Add(&avi);
 
     // comment
+    // comment2
 
     rootdir.ShowListInfo();//エントリのデータの表示
 
