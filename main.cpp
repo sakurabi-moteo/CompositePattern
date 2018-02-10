@@ -34,6 +34,8 @@ int main() {
 
     // comment
     // comment2
+    // comment3
+    // comment4
 
     rootdir.ShowListInfo();//エントリのデータの表示
 
