@@ -32,6 +32,8 @@ int main() {
     usrdir.Add(&tomdir);
     tomdir.Add(&avi);
 
+    // comment
+
     rootdir.ShowListInfo();//エントリのデータの表示
 
     return 0;
